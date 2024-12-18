@@ -132,7 +132,7 @@ export default function () {
                     </label>
                   </div>
                   <a
-                    href="#"
+                    
                     onClick={() => nagigateToOtp()}
                     className="text-gray-800"
                   >
